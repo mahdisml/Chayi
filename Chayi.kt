@@ -1,4 +1,4 @@
-object ChayiKMMS {
+object Chayi {
 
     // Mahdi Safarmohammadloo
     // www.MahdiSML.ir
