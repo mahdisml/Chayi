@@ -1,7 +1,7 @@
 object Chayi {
 
     // Mahdi Safarmohammadloo
-    // www.MahdiSML.ir
+    // www.MahdiSML.dev
 
     private const val DELTA = -0x61c88647
 
