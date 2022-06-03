@@ -1,8 +1,10 @@
 # Chayi
 Pure Kotlin Multiplatform XXTEA Cipher Encryption Library
 
-SUPER FAST !!!
+Chayi means tea in Persian language
 
-IT OUTPERFORM AES128 , AES256 , BLOWFISH !!!
+Super fast
 
-SUPPORT KOTLIN/JVM , KOTLIN/JS , KOTLIN/NATIVE !!!
+It outperform AES128 , AES256 , BLOWFISH
+
+Support KOTLIN/JVM , KOTLIN/JS , KOTLIN/NATIVE
